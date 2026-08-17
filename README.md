@@ -1,57 +1,35 @@
 <p align="center">
-  <!-- Dải nơ ren trang trí trên cùng -->
+  <!-- Đường kẻ trang trí đầu trang -->
   <img src="https://githubusercontent.com" width="100%"><br><br>
 
-  <!-- Khung ảnh nhân vật số 1 (Ảnh động/GIF nhân vật chính) -->
-  <img src="https://tenor.com" width="220" style="border: 2px solid #fff; padding: 5px; border-radius: 20px;"><br><br>
+  <!-- Ảnh nhân vật chính ở trên -->
+  <img src="https://rawg.io" width="250" style="border-radius: 15px;"><br><br>
+
+  <font face="monospace" size="4"><b>─── ⋆⋅☆⋅⋆ ───</b></font><br><br>
+
+  <!-- Khung lời thoại 1: Lụy kiểu tổn thương -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center" style="color: #ffffff; font-family: monospace; font-size: 16px;">
+        <p><b>" I built a castle out of all the promises you broke. "</b></p>
+        <!-- Dịch: Tớ đã xây một lâu đài từ tất cả những lời hứa mà cậu đã thất hứa. -->
+      </td>
+    </tr>
+  </table>
   
-  <img src="https://squarespace-cdn.com" width="150"><br><br>
-
-  <!-- Khung thoại nhân vật số 2 (Hình trái tim + Lời thoại) -->
-  <table align="center" border="0">
-    <tr>
-      <td>
-        <!-- Ảnh avatar nhỏ của nhân vật trong tim -->
-        <img src="https://pinimg.com" width="100" style="border-radius: 50%;">
-      </td>
-      <td align="center" style="color: #ffffff; font-family: monospace; padding-left: 20px;">
-        <p><b>" I'll break your bones<br>with all the love I carry "</b></p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  <font face="monospace" size="4"><b>─── ⋆⋅☆⋅⋆ ───</b></font>
   <br><br>
 
-  <!-- Các nút Mạng Xã Hội (Thay link của bạn vào phần href) -->
-  <a href="LINK_FACEBOOK_CỦA_BẠN">
-    <img src="https://shields.io">
-  </a>
-  <a href="LINK_INSTAGRAM_CỦA_BẠN">
-    <img src="https://shields.io">
-  </a>
-  <a href="LINK_DISCORD_CỦA_BẠN">
-    <img src="https://shields.io">
-  </a>
-
-  <br><br>
-  <img src="https://squarespace-cdn.com" width="150"><br><br>
-
-  <!-- Khung thoại nhân vật số 3 (Trái tim 2 + Lời thoại 2) -->
+  <!-- Khung lời thoại 2: Lụy kiểu không thể quên -->
   <table align="center" border="0">
     <tr>
-      <td>
-        <!-- Ảnh nhân vật trong tim thứ 2 -->
-        <img src="https://pinimg.com" width="100" style="border-radius: 50%;">
-      </td>
-      <td align="center" style="color: #ffffff; font-family: monospace; padding-left: 20px;">
-        <p><b>" One day we are gonna<br>grow wings "</b></p>
+      <td align="center" style="color: #ffffff; font-family: monospace; font-size: 16px;">
+        <p><b>" You are still my favorite chapter, even if I'm not in your book anymore. "</b></p>
+        <!-- Dịch: Cậu vẫn luôn là chương truyện yêu thích nhất của tớ, ngay cả khi tớ không còn ở trong cuốn sách của cậu nữa. -->
       </td>
     </tr>
   </table>
 
   <br><br>
-  <!-- Ảnh nhân vật lớn ở dưới cùng -->
-  <img src="https://pinimg.com" width="200">
+  <!-- Ảnh nhân vật lớn dưới cùng -->
+  <img src="https://githubusercontent.com" width="200">
 </p>
