@@ -2,7 +2,7 @@
   <!-- Dải nơ ren trắng đầu trang -->
   <img src="https://githubusercontent.com" width="100%"><br><br>
 
-  <!-- Ảnh thiên thần sa ngã của cậu -->
+  <!-- Ảnh thiên thần sa ngã của bạn -->
   <img src="ill.jpg" width="220" style="border: 3px solid #ffffff; padding: 4px; border-radius: 15px;"><br><br>
 
   <!-- KHUNG SỐ 1 -->
@@ -21,6 +21,20 @@
   </table>
 
   <br><br>
+  <!-- NÚT MẠNG XÃ HỘI (Đã sửa lại link da_bbyyw cực chuẩn) -->
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://shields.io">
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://shields.io">
+  </a>
+  <br><br>
+
+  <!-- Dải hoa ren trắng ở chính giữa -->
+  <img src="https://githubusercontent.com" width="60%"><br><br>
 
   <!-- KHUNG SỐ 2 -->
   <table align="center" border="0" cellpadding="0" cellspacing="0">
