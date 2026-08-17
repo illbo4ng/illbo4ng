@@ -1,7 +1,6 @@
 <p align="center">
-  <!-- Ảnh động nhân vật chính trắng đen siêu ngầu -->
-  <img src="https://myoctocat.com" width="0" />
-  <img src="https://githubusercontent.com" width="220" style="border-radius: 15px;"><br><br>
+  <!-- Ảnh thiên thần sa ngã của bạn -->
+  <img src="Баннер с Каору и Синдзи Trx_ @Evangelion_Empire.jpg" width="450" style="border-radius: 15px; border: 1px solid #333;"><br><br>
 
   <font face="monospace" size="4"><b>─── ⋆⋅☆⋅⋆ ───</b></font><br><br>
 
@@ -24,8 +23,4 @@
       </td>
     </tr>
   </table>
-
-  <br><br>
-  <!-- Biểu tượng trang trí dưới cùng của GitHub -->
-  <img src="https://githubassets.com" width="40">
 </p>
