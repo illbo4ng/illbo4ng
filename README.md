@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Ảnh thiên thần sa ngã của bạn -->
-  <img src="Баннер с Каору и Синдзи Trx_ @Evangelion_Empire.jpg" width="450" style="border-radius: 15px; border: 1px solid #333;"><br><br>
+  <!-- Thay thế dấu cách bằng %20 và chữ @ bằng %40 để GitHub đọc được ảnh -->
+  <img src="Баннер%20с%20Каору%20и%20Синдзи%20Trx_%20%40Evangelion_Empire.jpg" width="450" style="border-radius: 15px; border: 1px solid #333;"><br><br>
 
   <font face="monospace" size="4"><b>─── ⋆⋅☆⋅⋆ ───</b></font><br><br>
 
