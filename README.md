@@ -1,9 +1,7 @@
 <p align="center">
-  <!-- Đường kẻ trang trí đầu trang -->
-  <img src="https://imgur.com" width="100%"><br><br>
-
-  <!-- Ảnh nhân vật chính ở trên (Boy anime suy tư trắng đen) -->
-  <img src="https://imgur.com" width="260" style="border-radius: 15px; border: 1px solid #333;"><br><br>
+  <!-- Ảnh động nhân vật chính trắng đen siêu ngầu -->
+  <img src="https://myoctocat.com" width="0" />
+  <img src="https://githubusercontent.com" width="220" style="border-radius: 15px;"><br><br>
 
   <font face="monospace" size="4"><b>─── ⋆⋅☆⋅⋆ ───</b></font><br><br>
 
@@ -28,6 +26,6 @@
   </table>
 
   <br><br>
-  <!-- Ảnh nhân vật dưới cùng (Cặp đôi / Icon buồn) -->
-  <img src="https://imgur.com" width="180" style="border-radius: 10px;">
+  <!-- Biểu tượng trang trí dưới cùng của GitHub -->
+  <img src="https://githubassets.com" width="40">
 </p>
