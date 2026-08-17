@@ -1,11 +1,11 @@
 <p align="center">
-  <!-- Dải nơ ren trắng đầu trang -->
+  <!-- Dải nơ ren trắng đầu trang giống hệt chồng cậu -->
   <img src="https://githubusercontent.com" width="100%"><br><br>
 
-  <!-- Ảnh thiên thần sa ngã của bạn -->
+  <!-- Ảnh thiên thần sa ngã của cậu -->
   <img src="ill.jpg" width="220" style="border: 3px solid #ffffff; padding: 4px; border-radius: 15px;"><br><br>
 
-  <!-- KHUNG SỐ 1 -->
+  <!-- KHUNG SỐ 1: Trái tim bên trái + Chữ ở giữa + Chibi bên phải -->
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="middle">
@@ -21,7 +21,7 @@
   </table>
 
   <br><br>
-  <!-- NÚT MẠNG XÃ HỘI (Đã sửa lại link da_bbyyw cực chuẩn) -->
+  <!-- NÚT MẠNG XÃ HỘI (Đã tích hợp đầy đủ Fb & Ig của cậu) -->
   <a href="https://facebook.com" target="_blank">
     <img src="https://shields.io">
   </a>
@@ -33,10 +33,10 @@
   </a>
   <br><br>
 
-  <!-- Dải hoa ren trắng ở chính giữa -->
+  <!-- Dải hoa ren trắng ở giữa (ảnh cậu gửi thắc mắc) -->
   <img src="https://githubusercontent.com" width="60%"><br><br>
 
-  <!-- KHUNG SỐ 2 -->
+  <!-- KHUNG SỐ 2: Trái tim bên trái + Chữ lụy dưới + Chibi bên phải -->
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="middle">
